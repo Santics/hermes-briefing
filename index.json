@@ -1,0 +1,17 @@
+{
+  "latest": {
+    "date": "2026-04-23",
+    "module": "quant-ph",
+    "total": 0,
+    "detail": 0,
+    "url": "research/arxiv/quant-ph/daily/2026-04-23_arxiv-quant-ph/index.html",
+    "updated": "2026-04-23T19:24:22.581948"
+  },
+  "modules": {
+    "quant-ph": {
+      "name": "quant-ph",
+      "latest_date": "2026-04-23",
+      "base_url": "research/arxiv/quant-ph/"
+    }
+  }
+}
